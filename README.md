@@ -1,17 +1,30 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-(fill in your description and goals here)
+### - WITH OVER 30,000 LISTINGS IN NEW YORK CITY, TRY TO INVESTIGATE THE DATA FROM 2008 - 2015
+
+### - TRY TO FIND ANY PATTERN OR TREND FOR THIS CITY 
+
 
 ## Process
-### (your step 1)
-### (your step 2)
+### 
+- Using python first to do the data cleaning 
+### 
+- Trying to understand each column’s meaning and representing
+###
+ - Deleting null value and other data analysis
+###
+ - Using Tableau to do the visualazations
+
 
 ## Results
-(Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
+ - I chose the option 2 - Airbnb
+ - I found the price has been increased year by year, but the ratings have been decreased over the years
+ - The most expensive neigbourhood is in Manhattan but it doesn't mean the avg price can be lower than other neigbourhoods. 
+ - People are tending to choose the most cost-efficient rooms not the highest rating ones
 
 ## Challenges 
-(discuss challenges you faced in the project)
+- Not quite familiar with the function and features of tableau, still need to be master of it in the future
 
 ## Future Goals
-(what would you do if you had more time?)
+- Get more detailed and deeper across all the data to do the analysis more logical and meaningful 
